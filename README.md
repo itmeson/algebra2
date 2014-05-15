@@ -1,5 +1,5 @@
-Course documents for Lab Science, a 9-th grade level
-course that focuses on model building and testing.
+Course documents for Algebra 2, the first half of a two year
+course sequence in Advanced Algebra.
 
 The site is built using Pelican, a static site generator written in Python.
 
@@ -14,8 +14,7 @@ pelican-vimeo, pelican-youtube, pelican-bootstrap3, create_calendar
 
 
 TODO:
-* split into at least three branches (production, dev, fall2014). In future, create branches for future iterations of the course.  How do I push and pull from the branches into current dev or production? How do I put current production into storage and promote the future iteration to current dev?
-* Create a lot of content for spring 2014 and fall 2014
+* Create content for fall 2014
 * Write usage instructions
 
 
