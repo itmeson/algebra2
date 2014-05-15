@@ -1,0 +1,15 @@
+Quiz 2 
+######
+
+:date: 2013-09-05 
+:category: quizzes
+:tags: measurement, rates
+
+
+1. You measure the length of the classroom using the feet of two different students.  One of them measures the length to be 30 "feet", the other 26 "feet".  Explain how to convert between measurements provided by one or the other. Which student has bigger feet?
+  
+2. What is the conversion factor between student B's feet and your feet?
+
+3. If student B walks down to Pike Place, counting 4130 "feet", how many steps would it take you?
+ 
+ 

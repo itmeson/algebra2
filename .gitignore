@@ -1,0 +1,5 @@
+output/
+*.pyc
+*.swp
+fall2014/
+dev/
