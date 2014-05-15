@@ -1,22 +1,15 @@
-Day 3 
-#####
+Function Carnival start 
+#######################
 
 :date: 2013-09-03
 :summary: Graphing stories
 :category: lessons
 :tags: fall, measurement, graphs, communication
+:status: draft
 
-
-========
-Homework
-========
-
-1. Discuss twitter feed
-
-
-==============
-Today's Topics
-==============
+=================
+Function Carnival
+=================
 
 1. Hand out graph examples -- in groups of two or three, interpret the graphs, draw out explanations of the story on whiteboard, and act them out for the class.
 
