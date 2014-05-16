@@ -9,7 +9,7 @@ TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
-DISQUS_SITENAME = 'algebra2'
+DISQUS_SITENAME = 'betnelcourses'
 
 # Blogroll
 LINKS =  (
