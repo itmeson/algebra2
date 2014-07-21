@@ -29,4 +29,14 @@ TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
 PLUGIN_PATH = '../../../pelican-plugins' 
-PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican-vimeo', 'pelican-youtube']
+PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'pelican-youtube', 'sitemap', 'tipue_search', 'latex']
+
+DOCUTIL_CSS = True
+COMMENTS_INTRO = "Is something unclear? Leave a comment below:"
+DISPLAY_PAGES_ON_MENU = True
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories','archives', 'search', '404'))
+
+SITEMAP = { 'format': 'xml'}
+
+
