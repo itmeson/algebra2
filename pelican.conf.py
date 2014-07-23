@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"Algebra 2"
+SITENAME = u"Algebra 2 (2014-2015)"
 SITEURL = 'http://markbetnel.com/courses/algebra2-f2014'
 
 TIMEZONE = 'America/Los_Angeles'
