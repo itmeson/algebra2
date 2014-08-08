@@ -2,9 +2,9 @@ Week 3 Materials
 ################
 
 :date: 2014-09-15
-:summary: 
+:summary: Developing a full linear model, practicing basic equation solving 
 :category: lessons
-:tags: 
+:tags: linear, patterns, modelling, problem solving, boot camp
 
 
 =====
