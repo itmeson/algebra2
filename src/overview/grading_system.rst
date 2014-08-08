@@ -8,10 +8,17 @@ Grading System
 Grades in this class will be assigned based on a weighted average of your
 performance in these categories:
 
-* 10%	Homework_ 
-* 30%	Algebra Notebook
-* 60%	Course Skills_ -- See below
+* 10%	Homework 
+* 20%	Algebra Notebook
+* 20%   Class work and participation
+* 50%	Course Skills
 
+
+Homework is about practice, not about learning new skills, so it will largely be things you have done before, and there will generally not be very much of it in terms of the time it should take you.  If you think that you need more practice at something **let me know**!
+
+The notebook is going to be like a textbook that you will write for yourself, recording the things we've done this year and the things you learn.  It will be checked every few weeks for completeness, and you will almost always be allowed to use it during quizzes and tests.
+
+Class work and participation is just that -- how well you do at producing during class time.  I don't assign very much homework, but I expect a lot of work during class.  You will get regular feedback if I think you are not doing your share during class. 
 
 The Course Skills are the skills and concepts that you are expected to know /
 be able to do when you complete this class.  They are assessed primarily

@@ -18,8 +18,22 @@ calculator allowed, but do your best -- the better you all do, the less time we
 will spend on the pre-requisites, and the more time we will spend on more
 interesting stuff.
 
-If there's time when the diagnostic is done, we'll be doing a mathematical
-game.  If you finish before others you can read quietly.
+If there's time when the diagnostic is done, take a look at the following
+images
+
+.. figure:: images/cube.png
+   :scale: 15%
+   :alt: A cube
+
+   This figure is constructed entirely from straight lines, image by `Lionel Deimel. <http://info.deimel.org/cube.html>`_ See if you can make some interesting images using the same technique in your notebook. 
+
+
+.. figure:: images/parabola.gif
+   :scale: 25%
+   :alt: A parabola
+
+   By drawing straight lines from one grid point to another you can make the appearance of curves. 
+ 
 
 
 =====
@@ -28,11 +42,12 @@ Day 2
 
 Another linear model, the silly taxi:
 
-How much would it cost to take a taxi from SAAS to Mark's second favorite
-bookstore, Left Bank Books at Pike Place market?
+How much would it cost to take a taxi from SAAS to an excellent bookstore, 
+Third Place Books?
 
 How much would it cost to take a taxi from SAAS to the best bookstore in the
-world:  Powell's in Portland?
+world:  Powell's in Portland? (specifically, Building 2, which has all the
+math and science books)
 
 ...
 
@@ -46,8 +61,7 @@ Day 3
 
  1. Return the diagnostic pre-test, debrief on what we all need to work on
  2. Math bootcamp, based on diagnostic results
- 3. Using desmos -- Mark's favorite tool
-
+ 3. DESMOS - Mark's favorite tool
 
 =====
 Day 4
@@ -55,6 +69,5 @@ Day 4
    
  1. Find out whether you've got it: first quiz
  2. Notebook check
- 3. More math art
- 4. Math bootcamp
+ 3. Math bootcamp
 
