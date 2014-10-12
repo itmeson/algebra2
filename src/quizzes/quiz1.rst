@@ -4,7 +4,8 @@ Quiz 1
 :date: 2014-09-12 
 :category: quizzes
 :tags: fractions, integers
-
+:duedate: 2014-09-12
+:summary: a quiz covering fractions and integers
 
 Evaluate each expression:
 
