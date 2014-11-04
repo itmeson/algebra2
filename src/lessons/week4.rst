@@ -62,8 +62,15 @@ So our exploration of the Koch Curve -- we're going to have to table it for a wh
 Day 3
 =====
 
+Construct graphs using desmos (an online app at desmos.com) that show the following:
 
-=====
-Day 4
-=====
-   
+ 1. A person walking at one step per second.  The y-axis should show how far they get, the x-axis how many seconds they walk. Make a table of values and the equation that matches it using the app.
+
+ 2. A person walking at two steps per second.
+
+ 3. Make one up for a different speed.
+
+ 4. Make one that shows someone walking backward
+  
+
+ 
