@@ -28,7 +28,7 @@ DISPLAY_PAGES_ON_MENU = False
 TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
 
-PLUGIN_PATHs = ['../../../pelican-plugins/'] 
+PLUGIN_PATHS = ['../../../pelican-plugins'] 
 PLUGINS = ['create_calendar', 'ical', 'gallery', 'pelican_vimeo', 'pelican_youtube', 'sitemap', 'tipue_search', 'latex']
 
 DOCUTIL_CSS = True
