@@ -10,11 +10,11 @@ Algebra 2 Quiz 6, Week 11
 
  1. Find the place where the two lines meet, using pencil and paper only
 
-$$\\begin{eqnarray*}
-y & = &  2x + 10\\\\ 
-x + 4y & = & -14
-\\end{eqnarray*}
-$$
+  :math:`y  =   2x + 10` 
+
+  :math:`x + 4y  =  -14`
+
+ 
 
 
 

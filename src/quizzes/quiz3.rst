@@ -8,7 +8,7 @@ Quiz 3 - Week 6
 :summary: Quiz 3 on systems of linear equations
 
 
-1.  Solve for x:  $17x - 17 = 34$
+1.  Solve for x:  :math:`17x - 17 = 34`
 
 
 
