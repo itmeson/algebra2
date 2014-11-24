@@ -6,21 +6,6 @@ Content Outline
 :tags: standards, grading, overview
 
 
-I. Opening
-
-  a) Modelling with Math  
-  b) Diagnostic
-  c) More modelling and math boot camp
-  d) Estimation, number sense, math games and art
-
-II. Linear
- 
-  a) Models
-  b) equations
-  c) inequalities
-  d) graphs
-  e) transformations
-  f) number sense - exponents
 
 III. Linear systems
 
