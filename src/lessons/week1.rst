@@ -41,13 +41,28 @@ Day 2
  4. If I am moving at 2 steps every second, but I am walking on a moving floor that moves at 4 steps every second -- how fast am I moving, really?
 
 
-
 =====
 Day 3
 =====
+
+ 1. The key to the elevator problem is to figure out the speed of the person walking *by himself* and the speed of the escalator steps *by themselves*.  There are several ways to do this, but the most straightforward is to time how long it takes the walker to get up the stairs and to time how long it takes him when he's using the escalator the normal way.
+
+ 2. The walker's speed is the total distance travelled divided by the time it takes to get up the stairs.  You can measure the total distance in a lot of different ways -- in stair steps, in inches (using the images of the stair treads).  
+
+ 3. The speed with the escalator is found the same way -- distance divided by time.  The tricky part of this, conceptually, is that the distance has to be the *same as the one on the stairs*.  Why?  Because the total distance he travels on the escalator has to be the same as the total distance on the stairs, because they both start and end at the same place.  So however you figured out the total distance for the stairs, *use the same number for the escalator*.  This is the point that tripped up most people in the class.
+
+ 4. How do you use those speeds to find the speed of the escalator by itself?  
+
+ 5. Once you find the speed of the escalator by itself, how do you find the effective speed of the person working against the escalator?
+
+ 6. Once you know the effective speed against the escalator, how do you find the *time* to get up the escalator the wrong way?
 
 
 =====
 Day 4
 =====
+
+`Quiz 1- Winter Week 1 <winter-quiz-1-week-1.html>`_
+
+
    
