@@ -47,16 +47,43 @@ Day 1
 
  3. What we learned before was that all sequences like this could be represented by equations like :math:`y = mx + b`, where the **b** represented something about the shared sides between new shapes and the old shapes, the **x** represented the number of shapes, and the **m** represented how many toothpicks were added at each level. 
 
+ 4. Now I'd like to try a different kind of pattern, made up of dots to represent  the numbers, like this:
+
+.. image:: images/square-dots.png
+   :width: 100%
+   :alt: Using dot patterns to represent the sequences instead of toothpicks
+   :align: center
+..
+
+ What is the sequence of numbers that goes with this sequence of dots?  What is the equation that matches the sequence?  What kind of equation does it have to be?
+
 
 
 =====
 Day 2
 =====
 
+Triangular numbers.
+
+Sequence of rectangles?  x(x+1)
+
+x(x+2)
+
+
+
+
+
+
+
 =====
 Day 3
 =====
 
+ 1. Warm-Up:  Star boxes
+
+ 2. y = x^2 -x, give sequence
+
+ 3. 
 
 =====
 Day 4
