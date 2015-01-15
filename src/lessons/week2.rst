@@ -63,11 +63,24 @@ Day 1
 Day 2
 =====
 
-Triangular numbers.
+ 1. Now consider the following sequence of dots.  The "x" number is the input to some kind of equation, the number of dots is the "y" output of that equation.  Figure out what the equation is:
 
-Sequence of rectangles?  x(x+1)
+.. image:: images/x-xplus1-dots.png
+   :width: 100%
+   :alt: A pattern of dots 
+   :align: center
+..
 
-x(x+2)
+**How would you describe how the visual pattern grows?**
+
+**Can you make a connection between the sequence of square numbers and these numbers?**
+
+ 2. Here's another sequence of dots, figure out the equation that matches the sequence.  Is there a connection between the length of the sides of these rectangles and the input number **x**?
+
+.. image:: images/x-xplus2-dots.png
+   :width: 100%
+   :alt: A pattern of dots
+   :align: center
 
 
 
@@ -79,13 +92,30 @@ x(x+2)
 Day 3
 =====
 
- 1. Warm-Up:  Star boxes
+ 1. Continuing working with sequences of dots.  **Why is it useful to work with the dot pictures and the equations and the tables of numbers?**  Sometimes it is difficult or impossible to see a structure unless you look at the same thing in multiple ways.  For example, consider the following dot picture.  **How many dots are in the picture?**
 
- 2. y = x^2 -x, give sequence
 
- 3. 
+.. image:: images/line-of-25.png
+   :width: 100%
+   :alt: a line of dots
+   :align: center
+
+Now how about this picture?  How many dots are there?
+
+.. image:: images/5square.png
+   :width: 100%
+   :alt: a square of dots
+   :align: center
+
+Both images have the same number of dots, but it is much easier to see the number in the second picture, because they are arranged in a structure that facilitates understanding.  When we rearrange the dot pictures that match these quadratic equations, we are trying to find a way to make the structure more apparent to facilitate understanding.  It is very much like factoring.
+
+ 
+
+
 
 =====
 Day 4
 =====
+
+This was the Health Fair day for the 10th graders, and the Career Fair for 11th.
    
