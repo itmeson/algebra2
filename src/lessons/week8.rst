@@ -52,11 +52,20 @@ What does the x-intercept and y-intercept for each equation mean?  Do they make 
 Day 3
 =====
 
- 1. Transformations of linear and quadratic equations
+ 1. Transformations of linear equations.  We're at a point where we need to start thinking about equations and their graphs in a more sophisticated way -- we need better vocabulary and better conceptual tools for understanding what is going on with the different pieces of an equation.  This will help us in a couple of ways: it will make it easier to use equations to model more complicated situations, and it will enable us to handle learning new domains a little faster and a little better.  So we're going to explore a bunch of equations of lines and talk about what the differences in the equations mean for their graphs.  We'll then extend this discussion into quadratic equations and graphs next week.
 
- 2. Using different forms of linear and quadratic equations
+ 2. The graph here `on Desmos <https://www.desmos.com/calculator/4byncg0g4y>`_ has a bunch of equations for lines in the data entry section, but none of them are displayed.  Taking them one at a time, I want you to look at the equation, then draw on paper what you predict the graph will look like, *then* click the button next to the equation to display it to compare with your drawing.  If you are unsure how to start, make a table of x and y values that fit the equation, like:
 
- 3. The vertex form
+   =====  =====
+     x      y
+   =====  =====
+     0      0
+     1      1
+     2      2
+   =====  =====
+
+which is the table for the first equation in the linked graph, :math:`y = x`.
+
 
 
 =====
@@ -64,5 +73,6 @@ Day 4
 =====
    
  1. Quiz on finding the equations for data.  Some will  be linear, some will be quadratic
+
 
 
