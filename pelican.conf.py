@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"Algebra 2 (2014-2015)"
-SITEURL = 'http://markbetnel.com/courses/algebra2/base'
+SITEURL = 'http://markbetnel.com/courses/algebra2/s2015'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"

@@ -4,13 +4,13 @@ PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
-OUTPUTDIR=$(BASEDIR)/base
+OUTPUTDIR=$(BASEDIR)/s2015
 CONFFILE=$(BASEDIR)/pelican.conf.py
 THEME=elegant-course
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/courses/algebra2/base
+SSH_TARGET_DIR=markbetnel.com/courses/algebra2/s2015
 
 DROPBOX_DIR=~/Dropbox/Public/
 
