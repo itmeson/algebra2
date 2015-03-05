@@ -36,6 +36,6 @@ Day 3
 Day 4
 =====
 
- 1. Quiz 1 on factoring   
+ The Health Fair and 11th grade retreat are today -- no class. 
 
 
