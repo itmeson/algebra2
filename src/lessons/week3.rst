@@ -27,17 +27,14 @@ Day 2
 Day 3
 =====
 
- 1. Mixed practice -- what's the best method for finding roots?
-
- 2. What does it mean if there aren't any?
+ 1. Continued practice at completing the square and using the quadratic formula
 
 
 =====
 Day 4
 =====
 
- 1. Quiz 2 on solving using completing the square and the quadratic equation
+ 1. Quiz 2 on factoring and on solving using completing the square and the quadratic equation
 
- 2. Complex numbers
 
 
