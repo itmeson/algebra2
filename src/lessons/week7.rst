@@ -19,26 +19,24 @@ Day 1
 
  4. Some recursively defined functions (why is function notation useful?  Why not just keep using :math:`y = x` notation?
 
- 5. HW: Make your own function
-
  
 =====
 Day 2
 =====
 
- 1. Identifying domain and range of rational functions
+ 1. Practicing exponent rules and simplification 
 
- 2. Work out some details of your made up function
+ 2. Examples of recursively defined functions
 
 =====
 Day 3
 =====
 
- 1. Show off your function.
+ 1. Exponent rules practice
 
- 2. Finding inverses
+ 2. The fibonacci sequence, the Towers of Hanoi sequence, and other recursively defined functions
 
-
+ 3. Domain and range, function composition
 
 
 =====
